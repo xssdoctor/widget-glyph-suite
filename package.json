@@ -1,0 +1,11 @@
+{
+  "name": "widget-glyph-suite",
+  "version": "1.0.0",
+  "description": "Widget glyph helpers built on glyph-core",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "glyph-core": "github:xssdoctor/glyph-core#3361e866a8bff9bce4cfc63e11cddd9233cbbefe"
+  }
+}
